@@ -1,9 +1,12 @@
 Industrials
 
-US Departments 
+**US Departments**
+
 Defense (Army, Navy, Airforce) 
 - Lockheed (airforce)
 - Anduril (surveillance and reconnaissance)
+- Shield AI (mft autonomous drones for surveillance and patrolling)
+- Epirus (counter UAV systems, precision detection systems to detect unauthorized vessels)
 
 Transportation
 - Personal: 
@@ -19,10 +22,10 @@ Energy
 Urban Development 
 
 Homeland Security 
-- Anduril
+- Anduril (surveillance and reconnaissance)
 
 Commerce 
-- Flexport
+- Flexport (freight sheduler by air, ocen, rail and truck)
 
 Justice  
 
