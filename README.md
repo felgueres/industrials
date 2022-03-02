@@ -3,10 +3,23 @@ Industrials
 **US Departments**
 
 Defense (Army, Navy, Airforce) 
-- Lockheed (airforce)
+
+**Defensive Technologies**
+
+Accessible to private innovation. 
+Trend is towards surveillance and reconnaissance relating to autonomous vehicles. 
+
+Examples:
 - Anduril (surveillance and reconnaissance)
 - Shield AI (mft autonomous drones for surveillance and patrolling)
-- Epirus (counter UAV systems, precision detection systems to detect unauthorized vessels)
+- Epirus (counter UAV systems, precision detection systems to detect unauthorized vessels, smart control of energy power)
+- Dedrone (counter drone platform) 
+
+**Offensive Technologies**
+
+Don't seem accessible to private space (no startups)
+  
+
 
 Transportation
 - Personal: 
@@ -22,7 +35,6 @@ Energy
 Urban Development 
 
 Homeland Security 
-- Anduril (surveillance and reconnaissance)
 
 Commerce 
 - Flexport (freight sheduler by air, ocen, rail and truck)
