@@ -1,13 +1,14 @@
 Industrials
 
+Composites: stronger, lighter, faster, safer.
+
 **US Departments**
 
-Defense (Army, Navy, Airforce) 
+1/ Defense (Army, Navy, Airforce) 
 
-**Defensive Technologies**
+**Defense Technologies**
 
-Accessible to private innovation. 
-Trend is towards surveillance and reconnaissance relating to autonomous vehicles. 
+Accessible to private innovation. Trend is towards surveillance and reconnaissance relating to autonomous vehicles. 
 
 Examples:
 - Anduril (surveillance and reconnaissance)
@@ -15,34 +16,33 @@ Examples:
 - Epirus (counter UAV systems, precision detection systems to detect unauthorized vessels, smart control of energy power)
 - Dedrone (counter drone platform) 
 
-**Offensive Technologies**
+**Offense Technologies**
 
-Don't seem accessible to private space (no startups)
-  
+Not accessible to private innovation. Trend towards electric UAVs.
 
-
-Transportation
+2/ Transportation
 - Personal: 
 - Air: 
 - Railway: Parallel Systems (electric, ex-Tesla engineers)
 - Subterranean: Boring company (safe, fast-to-dig, low-cost transport, freight tunnels)
 - Sea: Boundary Layer Technologies (electric, hydrofoiling containerships)
 
-Agriculture 
+3/ Agriculture 
 
-Energy 
+3/ Energy 
 
-Urban Development 
+4/ Urban Development 
 
-Homeland Security 
+5/ Homeland Security 
 
-Commerce 
+6/ Commerce 
 - Flexport (freight sheduler by air, ocen, rail and truck)
 
-Justice  
+7/ Justice  
 
-Treasury  
+8/ Treasury  
 
-Health and Human Services  
+9/ Health and Human Services  
 
-Veteran Affairs  
+10/ Veteran Affairs  
+
