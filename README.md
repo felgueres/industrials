@@ -1,7 +1,7 @@
 # American industrials from a materials perspective
 
 ## Background
-The goal is to look at American Industrials and build an understanding as a system. The initial bounderies will be its input feeds; raw materials. If reducing the cost of manufacturing asymptotically approaches the cost of raw materials plus licensing intellectual property (Elon's), this is good place to start.
+The goal build an understanding of American Industrials as a system. If the cost of manufacturing asymptotically approaches the cost of raw materials plus intellectual property (Elon's), drawing the system boundary on materials seems good for a start.  
 
 ### Global Developments
 
@@ -11,7 +11,6 @@ Law of accelerating returns. Rate of change in information technology systems in
 
 ### 
 
-
 **US Departments**
 
 1/ Defense (Army, Navy, Airforce) 
@@ -19,7 +18,6 @@ Law of accelerating returns. Rate of change in information technology systems in
 **Defense Technologies**
 
 Accessible to private innovation. Trend is towards surveillance and reconnaissance relating to autonomous vehicles. 
-
 Examples:
 - Anduril (surveillance and reconnaissance)
 - Shield AI (mft autonomous drones for surveillance and patrolling)
