@@ -1,4 +1,4 @@
-# Reverse engineering American industrials from a materials perspective
+# American industrials from a materials perspective
 
 ## Background
 The goal is to look at American Industrials and build an understanding as a system. The initial bounderies will be its input feeds; raw materials. If reducing the cost of manufacturing asymptotically approaches the cost of raw materials plus licensing intellectual property (Elon's), this is good place to start.
