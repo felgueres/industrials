@@ -1,6 +1,6 @@
 # American industrials from a materials perspective
 
-## Background
+## :coffee: Background
 The goal build an understanding of American Industrials as a system. If the cost of manufacturing asymptotically approaches the cost of raw materials plus intellectual property (Elon's), drawing the system boundary on materials seems good for a start.  
 
 ### Global Developments
