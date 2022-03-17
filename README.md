@@ -1,15 +1,23 @@
 **Industrials**
 
+Global Developments
+
+### Technological Advancements
+Moore's Law. Every two years, transistor capacity doubles on ICs.
+
+Law of accelerating returns. Rate of chagne in information technology systems increase exponentially.
+
 High level frameworks
-- Two questions to find potential gaps in the market. Do supply chains match closely to automobile (autoindustry is good proven example)? Is there enough volume/demand to justify the capex? 
+- To find potential gaps in the market: Do supply chains match closely to automobile (autoindustry is good proven example)? Is there enough volume/demand to justify the capex? 
 - Find large market, extremely fragmented supply base with low NPS, vertically integrate and provide better experience. You can't depend on existing networks because it affects your customer experience.
+- A business’s Net Promoter Score is calculated by subtracting the percentage of people who dislike them from the percentage of people who love them. A high NPS means it is both widely loved and rarely hated. 
 - What are the margins, how fragmented is it, what are the segments, what are the trends, where is the biggest technology delta, what is the mission and end goal, what is the right tech stack, who should be in the team, make as much upfront work as possible
 
 Example: space manufacturing
 - Long history of low volume and low demand. 
 - There are preferences and advantages to manual engineering to ensure high quality products. 
 - Never enough demand to justify investing CAPEX into assembly lines.
-- 4000 shops of 10-20 people shops in the US
+- 4000 shops of 10-20 people in the US
 
 General observations in mft 
 - There are areas of mft that are extremely well optimized from competition, volume and incremental technologies over decades (eg. P&G, automobile)
@@ -65,4 +73,5 @@ Not accessible to private innovation. Trend towards electric UAVs.
 
 10/ Veteran Affairs  
 
-Composite materials: stronger, lighter, faster, safer.
+Resources
+[Retrofuturismus](http://klausbuergle.de)
