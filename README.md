@@ -1,9 +1,9 @@
 # Materialism 
 
-## :coffee: Background
+## :thought_balloon: Background
 The goal is to build an understanding of American Industrials as a system. If the cost of manufacturing asymptotically approaches the cost of raw materials plus intellectual property (Elon's idea), drawing a system boundary around materials is a good place to start.  
 
-### Global Developments
+### :earth_americas: Global Developments
 
 Moore's Law. Every two years, transistor capacity doubles on ICs.
 
