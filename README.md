@@ -1,13 +1,15 @@
-# American industrials from a materials perspective
+# American Techno-materialism
 
 ## :coffee: Background
-The goal build an understanding of American Industrials as a system. If the cost of manufacturing asymptotically approaches the cost of raw materials plus intellectual property (Elon's), drawing the system boundary on materials seems good for a start.  
+The goal is to build an understanding of American Industrials as a system. If the cost of manufacturing asymptotically approaches the cost of raw materials plus intellectual property (Elon's idea), drawing a system boundary around materials is a good place to start.  
 
 ### Global Developments
 
 Moore's Law. Every two years, transistor capacity doubles on ICs.
 
 Law of accelerating returns. Rate of change in information technology systems increase exponentially.
+
+
 
 ### 
 
