@@ -2,7 +2,7 @@
 
 ## :thought_balloon: Background
 
-The goal of this project is to build an understanding of America's manufacturing stock at the boundary of its inputs and, in the context of accelerating development of new technology.
+The goal of this project is to build an understanding of America's manufacturing stock from the angle of its inputs and in the context of exponential rate of technology.
 
 1/ Can we influence new products from the sourcing of raw materials?
 
