@@ -1,7 +1,11 @@
-# Materialism 
+# Industrial Materialism 
 
 ## :thought_balloon: Background
-The goal is to build an understanding of American Industrials as a system. If the cost of manufacturing asymptotically approaches the cost of raw materials plus intellectual property (Elon's idea), drawing a system boundary around materials is a good place to start.  
+Consider America's wealth to be a system stock of manufacturing capacity. 
+The cost of manufacturing asymptotically approaches the cost of raw materials plus intellectual property (Elon's idea).  
+The goal of this project is to simply bring attention to the input flows in this equation -- raw materials.
+I want to build an understanding of America's manufacturing capacity from the lense of its inputs. 
+What can it tell us about the future?
 
 ### :earth_americas: Global Developments
 
