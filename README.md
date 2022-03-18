@@ -10,7 +10,7 @@ The goal of this project is to build an understanding of America's manufacturing
 
 3/ Is there an equivalent of a staging environment for materials?
 
-4/ What data is out there and would like to buy it?
+4/ What data is not being captured and who wants to buy it?
 
 ### :earth_americas: Global Developments
 
