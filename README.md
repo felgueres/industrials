@@ -1,11 +1,6 @@
 # Industrial Materialism 
 
 ## :thought_balloon: Background
-Consider two ideas: 
-
-1/ America's wealth to be a system stock of manufacturing capacity. 
-
-2/ The cost of manufacturing asymptotically approaches the cost of raw materials plus intellectual property (Elon's idea).
 
 The goal of this project is to build an understanding of America's manufacturing stock at the boundary of its inputs and, in the context of accelerating development of new technology.
 
@@ -26,6 +21,8 @@ By 2050, energy consumption will increase by 80% (OECD 2012).
 #### From mass production to mass customization
 - Mass production made way to standardization and loss of complexity (information)
 - Modernity has led to a superficiality of forms. It introduces rules that allows filtering and comparing. Evaluating comprehensible characteristics is fast and manageable method to process information. Standardization, repetition, regularity, leads to loss of information.
+- Historically, there has always been a problem of productivity vs. product changes. GM shortened the gap with Ford, when they decided to introduce yearly model changes. Reliable and scalable is no longer enough, it must adapt -- with shortening periodicity -- to new market demands.
+- 
 
 #### Lack of meaning (nihilism)
 - The lack of god -- even if culturally -- left the west devoid of meaning. 
