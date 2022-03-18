@@ -34,17 +34,16 @@ By 2050, energy consumption will increase by 80% (OECD 2012).
 - Viktor Frankl observed the rise of hedonism, nihilism, as the 
 
 #### Alternate periods that favor form vs function 
-> In Architecture
-    - New production methods have "robbed the architectural shape of its material dimension and only during manufacturing finds a reference back to the material" (Jeska)
-    - Insists that dynamic processes should under no means end with the completion of a building (Oosterhuis, TU Delft Professor). We'll move to buildings that become liquid, not static, and not only metaphorically in the design process. 
-    - Flexible, dynamic, in form and structure
-      - Change through intrinsic properties, eg. early thermostats
-      - Change through over the air digital updates, eg. tesla software updates 
-      - Change bodies and shape in real-time
-      - Change through physical manipulation ex post production
-> In philosophy and economy
-    - The prosperous gilded age brought romanticism, the exploration of the sublime, as the necessary compliment of a rounded life (favor the form)
-    - The concomittant of the great depression was a return to the practical and frugal (favor the functional) 
+In Architecture
+- New production methods have "robbed the architectural shape of its material dimension and only during manufacturing finds a reference back to the material" (Jeska)
+- Insists that dynamic processes should under no means end with the completion of a building (Oosterhuis, TU Delft Professor). We'll move to buildings that become liquid, not static, and not only metaphorically in the design process. Flexible, dynamic, in form and structure
+  - Change through intrinsic properties, eg. early thermostats
+  - Change through over the air digital updates, eg. tesla software updates 
+  - Change bodies and shape in real-time
+  - Change through physical manipulation ex post production
+In philosophy and economy
+  - The prosperous gilded age brought romanticism, the exploration of the sublime, as the necessary compliment of a rounded life (favor the form)
+  - The concomittant of the great depression was a return to the practical and frugal (favor the functional) 
 
 ### 
 
