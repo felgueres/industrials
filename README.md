@@ -41,6 +41,7 @@ In Architecture
   - Change through over the air digital updates, eg. tesla software updates 
   - Change bodies and shape in real-time
   - Change through physical manipulation ex post production
+
 In philosophy and economy
   - The prosperous gilded age brought romanticism, the exploration of the sublime, as the necessary compliment of a rounded life (favor the form)
   - The concomittant of the great depression was a return to the practical and frugal (favor the functional) 
