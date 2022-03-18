@@ -1,11 +1,19 @@
 # Industrial Materialism 
 
 ## :thought_balloon: Background
-Consider America's wealth to be a system stock of manufacturing capacity. 
-The cost of manufacturing asymptotically approaches the cost of raw materials plus intellectual property (Elon's idea).  
-The goal of this project is to simply bring attention to the input flows in this equation -- raw materials.
-I want to build an understanding of America's manufacturing capacity from the lense of its inputs. 
-What can it tell us about the future?
+Consider two ideas: 
+
+1/ America's wealth to be a system stock of manufacturing capacity. 
+
+2/ The cost of manufacturing asymptotically approaches the cost of raw materials plus intellectual property (Elon's idea).
+
+The goal of this project is to build an understanding of America's manufacturing stock at the boundary of its inputs and, in the context of accelerating development of new technology.
+
+1/ Can we influence new products from the sourcing of raw materials?
+
+2/ What arrangement of atoms could you do at the source to facilitate their later transformation? 
+
+3/ Is there an equivalent of a staging environment for materials?
 
 ### :earth_americas: Global Developments
 
@@ -15,6 +23,10 @@ Law of accelerating returns. Rate of change in information technology systems in
 
 By 2050, energy consumption will increase by 80% (OECD 2012).
 
+#### From mass production to mass customization
+- Mass production made way to standardization and loss of complexity (information)
+- Modernity has led to a superficiality of forms. It introduces rules that allows filtering and comparing. Evaluating comprehensible characteristics is fast and manageable method to process information. Standardization, repetition, regularity, leads to loss of information.
+
 #### Lack of meaning (nihilism)
 - The lack of god -- even if culturally -- left the west devoid of meaning. 
 - For technologists, partially filled by the aspirational technologies of AGI and Mars, the new frontier.
@@ -22,18 +34,13 @@ By 2050, energy consumption will increase by 80% (OECD 2012).
 - There is an incompetence to use new technology to create spatial meaning and identity. Koolhas, Junkspace
 - Architecture has become superficial and shallow, focuses on formal appearance rather than its larger purpose. Koolhas, Junkspace
 
-#### From mass production to mass customization
-- Mass production made way to standardization and loss of complexity (information)
-- Modernity has led to a superficiality of forms. It introduces rules that allows filtering and comparing. Evaluating comprehensible characteristics is fast and manageable method to process information. Standardization, repetition, regularity, leads to loss of information.
-
-#### Architechture angle
+#### Architecture angle
 - Reciprocal influence between form and material. Implies that a focus on surface rather than material's intrinsic properties is directly linked to CAD tools (Jeska)
 - New production methods have "robbed the architectural shape of its material dimension and only during manufacturing finds a reference back to the material" (Jeska)
 - Insists that dynamic processes should under no means end with the completion of a building (Oosterhuis, TU Delft Professor). Finally, we'll move to buildings that become liquid, not static, and not only metaphorically in the design process. Flexible, dynamic, in form and structure.
   - Intrinsic properties. 
   - Over the air digital updates. Change bodies and shape in real-time
   - In land updates.  
-
 
 ### 
 
